@@ -9,7 +9,7 @@ Welcome to my Laravel project, a robust and scalable web application built using
 ## Project Overview 🗂️
 -------------------
 
-This project is a [briefly describe the project and its purpose]. It features a robust backend built using Laravel 🚀, with a focus on scalability, security, and performance 🔒. The frontend is built using:
+This project is a These is a E-learning platform i did from free to gave it to humanintarian company to help does who cannot go to school in my country. It features a robust backend built using Laravel 🚀, with a focus on scalability, security, and performance 🔒. The frontend is built using:
 
 * **Blade** 📄 for templating
 * **Tailwind CSS** 💨 for styling
@@ -33,8 +33,8 @@ This project is a [briefly describe the project and its purpose]. It features a 
 ## Features 🎉
 ------------
 
-* [list the key features of the project, e.g., user authentication, payment gateway integration, etc.]
-* [briefly describe each feature and its implementation]
+*  user authentication
+* Free and will organise
 
 ## System Requirements 📝
 ----------------------
@@ -42,6 +42,7 @@ This project is a [briefly describe the project and its purpose]. It features a 
 * PHP 7.4 or higher 💻
 * MySQL 8.x or higher 📊
 * Xammp
+* composer
 
 ## Installation 🚀
 ---------------
